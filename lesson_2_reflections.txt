@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    .git folder is created. It is needed to start keeping track of versions of files in that repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    THe staging area is where separate versions of a file are kept.
